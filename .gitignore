@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ignores for Code::Blocks
+*.layout
+*.depend
